@@ -8,7 +8,7 @@ My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
 > * [TCP/IP, ISO/OSI, UDP/TCP](networking/tcp-ip-models.md) — *Protocol layers, subnets, encapsulation and so on*
 > * [Hydra Commands](hydra/hydra-basics.md) — *Common commands of Hydra, basic syntax for modules*
 > * [SOC scheme](SOC/soc-pillars.md)
-> * [Cyberchef notes](cyberchef/cyberchef-tips.md) — *Some pro-tips about cyberchef*
+> * [Cyberchef](cyberchef/cyberchef-tips.md) — *Some pro-tips about cyberchef*
 
 > [!TIP]
 > ### Linux & Windows CLI
