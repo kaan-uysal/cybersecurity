@@ -1,5 +1,5 @@
 # Cybersecurity
-My hands-on cybersecurity notes, network analysis, and TryHackMe write-ups.
+My hands-on cybersecurity notes, network analysis, and lab write-ups.
 
 ## Navigation:
 
