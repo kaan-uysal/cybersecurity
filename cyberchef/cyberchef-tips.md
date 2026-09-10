@@ -39,7 +39,7 @@
 
 ## 3. High-Value SOC Recipes
 
-### De-obfuscating Malicious PowerShell / Command Lines
+### De-obfuscating Malicious Command Lines
 ```text
 Input: Base64 Encoded PowerShell Command
 Recipe:
